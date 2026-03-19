@@ -1,7 +1,7 @@
-<!-- ================== LIMITLESS COSMIC GALAXY MODE ================== -->
+<!-- ================== LIMITLESS COSMIC EXPLOSION MODE ================== -->
 
 <p align="center">
-<!-- Cosmic galaxy explosion forming developer -->
+<!-- Cosmic galaxy forming developer silhouette -->
 <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Cosmic Developer Forming" width="100%"/>
 </p>
 
@@ -17,37 +17,25 @@
 
 ---
 
-## 👨‍💻 About Me
-- BSc.CSIT (Final Semester)  
-- Full Stack Developer  
-- Exploring Web3 & Blockchain  
-- Based in Nepal 🇳🇵  
-- Building projects that make people ask: *“How is this even made??”*  
-
----
-
-## 🌌 Tech Constellation
+## 🌌 Cosmic Skills (Constellations)
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,python,java,cpp,php,react,nextjs,nodejs,html,css,mysql,aws,gcp,git,vscode,figma,webpack"/>
 </p>
 
 ---
 
-## 🚀 Projects Galaxy
+## 🚀 Projects Orbit
 | Project | Tech | Status |
 |---|---|---|
+| 🌐 Portfolio Website | Next.js | Active |
+| 🏨 Hotel Management | Node + MySQL | Growing |
 | 🔗 Web3 Voting | React + Blockchain | Learning |
-| 🏨 Hotel Management | Node + MySQL | Active |
-| 🌐 Portfolio Website | Next.js | Growing |
 | 🎮 Mini Games | JS + Python | Active |
 | 🤖 AI Experiments | Python | Ongoing |
 
----
-
-## 📊 Cosmic Dashboard
 <p align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=raisabin947&show_icons=true&theme=react-dark&hide_border=true"/>
-<img height="165em" src="https://streak-stats.demolab.com?user=raisabin947&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=raisabin947&show_icons=true&theme=react-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=raisabin947&theme=react-dark&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -68,14 +56,14 @@
 
 ---
 
-## 🌠 Cosmic Quote
+## 🌠 Cosmic Quote (Meteor Messages)
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🌍 Connect With Me (Neon)
+## 🌍 Connect to the Galaxy
 <p align="center">
 <a href="https://www.linkedin.com/in/roshan-rai-9a19562a2/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
 <a href="mailto:raisabin947@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
@@ -93,8 +81,6 @@
 - Launch personal portfolio  
 - First developer internship  
 
----
-
 <p align="center">
 ⭐ Consistency > Talent. Build daily, stay limitless.  
 </p>
@@ -102,5 +88,3 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004e92,100:000428&height=120&section=footer"/>
 </p>
-
----
