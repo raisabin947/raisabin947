@@ -1,12 +1,12 @@
-<!-- ================== LIMITLESS COSMIC EXPLOSION MODE ================== -->
+<!-- ================== LIMITLESS COSMIC DEVELOPER MODE ================== -->
 
 <p align="center">
-<!-- Cosmic galaxy forming developer silhouette -->
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Cosmic Developer Forming" width="100%"/>
+<!-- Cosmic explosion → developer forming -->
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Developer Emerging From Galaxy" width="100%"/>
 </p>
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Initializing+Cosmic+Developer...;Roshan+Rai;+Full+Stack+Developer;+Web3+Explorer;+Nepal+🇳🇵"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3500&color=00F7FF&center=true&vCenter=true&width=900&lines=Initializing+Cosmic+Developer...;Roshan+Rai;+Full+Stack+Developer;+Web3+Explorer;+Nepal+🇳🇵"/>
 </h1>
 
 <p align="center">
@@ -17,14 +17,14 @@
 
 ---
 
-## 🌌 Cosmic Skills (Constellations)
+## 🌌 Skill Constellations
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,python,java,cpp,php,react,nextjs,nodejs,html,css,mysql,aws,gcp,git,vscode,figma,webpack"/>
 </p>
 
 ---
 
-## 🚀 Projects Orbit
+## 🚀 Projects Orbiting
 | Project | Tech | Status |
 |---|---|---|
 | 🌐 Portfolio Website | Next.js | Active |
@@ -33,9 +33,12 @@
 | 🎮 Mini Games | JS + Python | Active |
 | 🤖 AI Experiments | Python | Ongoing |
 
+---
+
+## 📊 Cosmic Dashboard
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=raisabin947&show_icons=true&theme=react-dark&hide_border=true"/>
-<img src="https://streak-stats.demolab.com?user=raisabin947&theme=react-dark&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=raisabin947&show_icons=true&theme=react-dark&hide_border=true"/>
+<img height="165em" src="https://streak-stats.demolab.com?user=raisabin947&theme=react-dark&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -44,7 +47,7 @@
 
 ---
 
-## 🧬 Skill Radar (Cosmic Levels)
+## 🧬 Cosmic Skill Radar
 | Skill | Level |
 |---|---|
 | HTML/CSS | ████████░░ |
@@ -56,14 +59,14 @@
 
 ---
 
-## 🌠 Cosmic Quote (Meteor Messages)
+## 🌠 Meteor Messages (Dynamic Quotes)
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🌍 Connect to the Galaxy
+## 🌍 Connect With The Cosmos
 <p align="center">
 <a href="https://www.linkedin.com/in/roshan-rai-9a19562a2/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
 <a href="mailto:raisabin947@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
