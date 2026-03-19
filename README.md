@@ -1,11 +1,12 @@
-<!-- ================== LIMITLESS COSMIC MODE ================== -->
+<!-- ================== LIMITLESS COSMIC GALAXY MODE ================== -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:141E30,50:243B55,100:2c5364&height=260&section=header&text=ROSHAN%20RAI&fontSize=55&fontColor=00F7FF&animation=glitch"/>
+<!-- Cosmic galaxy explosion forming developer -->
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Cosmic Developer Forming" width="100%"/>
 </p>
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Initializing+Limitless+Cosmic+Profile...;Full+Stack+Developer;Web3+Explorer;Nepal+🇳🇵"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Initializing+Cosmic+Developer...;Roshan+Rai;+Full+Stack+Developer;+Web3+Explorer;+Nepal+🇳🇵"/>
 </h1>
 
 <p align="center">
@@ -21,7 +22,7 @@
 - Full Stack Developer  
 - Exploring Web3 & Blockchain  
 - Based in Nepal 🇳🇵  
-- Building projects that make people say “how did he do this?”  
+- Building projects that make people ask: *“How is this even made??”*  
 
 ---
 
@@ -43,11 +44,10 @@
 
 ---
 
-## 📊 Limitless Dashboard
-
+## 📊 Cosmic Dashboard
 <p align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=raisabin947&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165em" src="https://streak-stats.demolab.com?user=raisabin947&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=raisabin947&show_icons=true&theme=react-dark&hide_border=true"/>
+<img height="165em" src="https://streak-stats.demolab.com?user=raisabin947&theme=react-dark&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -56,7 +56,7 @@
 
 ---
 
-## 🧬 Skill Radar
+## 🧬 Skill Radar (Cosmic Levels)
 | Skill | Level |
 |---|---|
 | HTML/CSS | ████████░░ |
@@ -68,14 +68,14 @@
 
 ---
 
-## 🌠 Dynamic Cosmic Quote
+## 🌠 Cosmic Quote
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🌍 Connect to the Galaxy
+## 🌍 Connect With Me (Neon)
 <p align="center">
 <a href="https://www.linkedin.com/in/roshan-rai-9a19562a2/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
 <a href="mailto:raisabin947@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
@@ -85,23 +85,13 @@
 
 ---
 
-## 🎯 2026 Roadmap
+## 🎯 2026 Cosmic Roadmap
 - Build 5 full-stack projects  
 - Participate in hackathons  
 - Contribute to open-source  
 - Learn blockchain deeply  
 - Launch personal portfolio  
 - First developer internship  
-
----
-
-## ⚡ Bonus Cosmic Features
-1. Animated Glitch Banner (Capsule Render)  
-2. Typing AI Intro (Readme Typing SVG)  
-3. Contribution Snake & Heatmap (GitHub Actions optional)  
-4. Dynamic Quotes  
-5. Neon Connect Icons  
-6. Projects showcase like a live dashboard  
 
 ---
 
@@ -112,3 +102,5 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004e92,100:000428&height=120&section=footer"/>
 </p>
+
+---
