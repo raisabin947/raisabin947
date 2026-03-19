@@ -1,21 +1,25 @@
+<!-- ================== COSMIC GEMINI DEVELOPER PROFILE ================== -->
+
 <div align="center">
+  <!-- Capsule-render header → polished identity -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=200&section=header&text=ROSHAN%20RAI&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Bsc.CSIT%20Student%20|%20Full%20Stack%20Developer&descSize=20&descAlignY=55" width="100%" />
 </div>
 
 <p align="center">
+  <!-- Typing SVG for dynamic skill showcase -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Building+Scalable+Solutions;8th+Semester+CSIT+Scholar;Web+Development+Specialist;Transforming+Ideas+into+Code" alt="Typing SVG" />
 </p>
 
 ---
 
-## 💻 System Status: Developer Overview
+## 💻 Developer Overview
 <table align="center">
   <tr>
     <td width="50%" style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=raisabin947&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Roshan's Stats" width="100%" />
     </td>
     <td width="50%" style="border: none;">
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raisabin947&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raisabin947&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" width="100%" />
     </td>
   </tr>
 </table>
@@ -26,7 +30,7 @@
 
 ---
 
-## 🛠️ Tech Stack Architecture
+## 🌌 Skill Constellations & Tech Stack
 ### 🌐 Frontend & Design
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -47,24 +51,46 @@
 
 ---
 
-## 🐉 The Contribution Dragon
+## 🚀 Cosmic Projects Orbit
+| Project | Tech | Status |
+|---|---|---|
+| 🌐 Portfolio Website | Next.js | Active |
+| 🏨 Hotel Management | Node + MySQL | Growing |
+| 🔗 Web3 Voting | React + Blockchain | Learning |
+| 🎮 Mini Games | JS + Python | Active |
+| 🤖 AI Experiments | Python | Ongoing |
+
+---
+
+## 🐉 Contribution Dragon (Shooting Stars)
 <p align="center">
   <img src="https://raw.githubusercontent.com/raisabin947/raisabin947/output/github-contribution-grid-snake.svg" alt="Snake" />
 </p>
 
-<div align="center">
-  
-  ## 📡 Connect with the Core
-  
+---
+
+## 🌠 Cosmic Quotes (Meteor Messages)
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌍 Connect with the Core
+<p align="center">
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/roshan-rai-9a19562a2/)
   [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://wa.me/9779869835387)
   [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:raisabin947@gmail.com)
   [<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />](https://www.buymeacoffee.com/chamidudili)
+</p>
 
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=raisabin947&label=ENCRYPTION%20LEVEL%2099%25&color=00FFFF&style=flat-square" />
-</div>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=raisabin947&label=ENCRYPTION%20LEVEL%2099%25&color=00FFFF&style=flat-square" />
+</p>
+
+---
 
 <div align="center">
+  <!-- Cosmic particle overlay GIF for alive feeling -->
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" />
 </div>
