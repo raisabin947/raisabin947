@@ -1,26 +1,21 @@
-<!-- ================= HERO SECTION ================= -->
+<!-- ================= LIMITLESS MODE BEGINNER-FRIENDLY ================= -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:141E30,100:243B55&height=220&section=header&text=ROSHAN%20RAI&fontSize=50&fontColor=00F7FF"/>
+</p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+👋+I'm+Roshan+Rai;Full+Stack+Developer;Web3+Explorer+⚡;Building+Tech+From+Nepal+🇳🇵" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2500&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I+am+Roshan+Rai;Full+Stack+Developer;Web3+Explorer;Nepal+🇳🇵"/>
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raisabin947&label=Visitors&color=00ffff&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=raisabin947&style=for-the-badge&color=00ffff"/>
+<img src="https://img.shields.io/badge/MODE-LIMITLESS-7B00FF?style=for-the-badge"/>
 </p>
-
----
-
-<!-- ================= CYBER BANNER ================= -->
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%">
-</p>
-
 
 ---
 
 ## 👨‍💻 About Me
-
 - BSc.CSIT (Final Semester)  
 - Full Stack Developer  
 - Exploring Web3 & Blockchain  
@@ -29,26 +24,23 @@
 ---
 
 ## 🛠 Tech Stack
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,python,java,cpp,php,react,nextjs,nodejs,html,css,mysql,aws,gcp,git,vscode,figma"/>
+<img src="https://skillicons.dev/icons?i=js,python,java,cpp,php,react,nextjs,nodejs,html,css,mysql,git,vscode,figma"/>
 </p>
 
 ---
 
 ## 🌱 My Learning Journey
-
 - ✅ HTML/CSS & JavaScript  
 - ✅ React + Next.js  
 - ✅ Node.js + Express  
 - ✅ MySQL / SQLite  
 - 🚧 Blockchain basics  
-- 🎯 Building real projects  
+- 🎯 Building practical projects  
 
 ---
 
 ## 🚀 Projects
-
 | Project | Tech | Status |
 |---|---|---|
 | Hotel Management | Node + MySQL | Active |
@@ -58,7 +50,6 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=raisabin947&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="165em" src="https://streak-stats.demolab.com?user=raisabin947&theme=tokyonight&hide_border=true"/>
@@ -67,7 +58,6 @@
 ---
 
 ## 🌍 Connect With Me
-
 <p align="center">
 <a href="https://www.linkedin.com/in/roshan-rai-9a19562a2/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
 <a href="mailto:raisabin947@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
@@ -77,7 +67,6 @@
 ---
 
 ## 🎯 Goals 2026
-
 - Build 5 full-stack projects  
 - Contribute to open-source  
 - Participate in hackathons  
